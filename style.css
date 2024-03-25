@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Oleo+Script:wght@400;700&family=Sansita+Swashed:wght@300..900&family=Satisfy&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Oleo+Script:wght@400;700&family=Yantramanav:wght@100;300;400;500;700;900&display=swap..https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Fira+Code:wght@300..700&family=Oleo+Script:wght@400;700&family=Satisfy&family=Yantramanav:wght@100;300;400;500;700;900&display=swap');
+
+
+h1{
+    font-family: "sansita swashed", system-ui;
+    font-size: 70px;
+    color: rgb(128, 42, 165);
+    margin-top: 3px;
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(185, 223, 250);
+    text-align: center;
+    justify-content: center;
+}
+
+    
+
+#borda{ 
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: rgb(141, 162, 232);
+    border: 1px;
+    border-radius: 20px;
+    box-shadow: 3px 8px 40px \rgb(58, 58, 212);
+}
+
+/*Fontes para os textos lorem*/
+#p1{
+    font-family: "Crete Round", sans-serif;
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#p2{
+    font-family: "Yantramanav", serif;
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#p3{
+    font-family: "Fira Code", monospace;
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#p4{
+    font-family: "Oleo Script", "fantasy";
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#p5{
+    font-family: "Satisfy", "cursive";
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+/*fontes dos títulos*/
+#fonte01{
+    padding-top: 6%;
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    font-family: "Crete Round", sans-serif;
+    margin-bottom: 10px;
+}
+
+#fonte02{
+    font-family: "Yantramanav", serif;
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+#fonte03{
+    font-family: "Fire Code", monospace;
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+#fonte04{
+    font-family: "Oleo Script", "fantasy";
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+
+#fonte05{
+    font-family: "Satisfy", "cursive" ;
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
